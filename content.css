@@ -1,0 +1,9 @@
+.content {
+    /* background-color: var(--color-beige); */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 70%;
+    min-height: 97%;
+    margin: 0 auto;
+}
