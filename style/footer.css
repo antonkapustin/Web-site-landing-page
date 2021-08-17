@@ -1,0 +1,29 @@
+.footer {
+    display: flex;
+    align-items: center;
+    padding: 7vh 4vw;
+    width: 90%;
+}
+
+.footer__paragraph {}
+
+.footer__list {
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+    text-transform: uppercase;
+}
+
+.footer__item {
+    margin-right: 2.6vw;
+    font-size: 8px;
+    letter-spacing: 7px;
+}
+
+.footer__item::after {
+    content: "/";
+}
+
+.footer__item:last-child {
+    margin-right: 6vw;
+}
