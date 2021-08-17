@@ -1,8 +1,6 @@
 .footer {
     display: flex;
     align-items: center;
-    padding: 7vh 4vw;
-    width: 90%;
 }
 
 .footer__paragraph {}

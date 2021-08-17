@@ -1,9 +1,8 @@
 .main {
-    height: 81.5vh;
     display: flex;
     flex-direction: column;
-    padding: 0  4vw;
     justify-content: flex-end;
+    flex: 1 1 auto;
 }
 
 .main__title {

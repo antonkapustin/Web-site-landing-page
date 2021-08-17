@@ -1,6 +1,9 @@
 .content {
     /* background-color: var(--color-beige); */
-    max-width: 89.5vw;
-    margin: 16.5vh auto;
-    height: max-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 70%;
+    min-height: 97%;
+    margin: 0 auto;
 }
