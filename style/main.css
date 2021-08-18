@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex: 1 1 auto;
+}
+
+.main__title {
+    font-size: 4.5em;
+    max-width: 11ch;
+    margin: 0;
+    padding: 0;
+    line-height: 1.3em;
+}
+
+.main__paragraph {
+    font-size: 1.2em;
+    max-width: 38ch;
+    margin: 0;
+    padding: 0;
+    line-height: 1.3em;
+}

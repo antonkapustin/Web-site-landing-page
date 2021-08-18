@@ -1,0 +1,17 @@
+.button {
+    font-size: 0.8em;
+}
+
+.button_primary {
+    padding: 1em 1.6em;
+    border-radius: 0.5em;
+    background-color: var(--color-black);
+    color: white;
+}
+
+.button_second {
+    padding: 2.6vh 2.6vw;
+    background-color: var(--color-green);
+    border-radius: 0.8em;
+    margin-right: 1.5vw;
+}

@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* max-width: 96%; */
+}
+
+.header__link {
+    text-decoration: none;
+    color: var(--color-black);
+}

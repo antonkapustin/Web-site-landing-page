@@ -1,0 +1,8 @@
+.content {
+    /* background-color: var(--color-beige); */
+    display: flex;
+    flex-direction: column;
+    max-width: 89%;
+    min-height: 95%;
+    margin: 0 auto;
+}
