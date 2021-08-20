@@ -3,14 +3,14 @@
 }
 
 .button_primary {
-    padding: 1em 1.6em;
+    padding: 18px 30px;
     border-radius: 0.5em;
     background-color: var(--color-black);
     color: white;
 }
 
 .button_second {
-    padding: 2vh 2.6vw;
+    padding: 30px 50px;
     background-color: var(--color-green);
     border-radius: 0.8em;
     margin-right: 1.5vw;

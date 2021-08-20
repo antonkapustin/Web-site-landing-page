@@ -1,8 +1,7 @@
 .footer {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
-    flex: 0.4 0 0;
+    justify-content: space-between;
 }
 
 .footer__paragraph {}
@@ -25,7 +24,6 @@
 }
 
 .footer__container {
-    flex: 0 0 43%;
     display: flex;
     align-items: center;
 }
