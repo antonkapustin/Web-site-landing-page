@@ -2,7 +2,8 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    flex: 0.83 1 auto;
+    flex: 1 1 auto;
+    margin-left: 4%;
 }
 
 .main__title {
@@ -17,4 +18,5 @@
     max-width: 38ch;
     margin: 0;
     padding: 0;
+    line-height: 1.5;
 }
