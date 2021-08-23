@@ -1,0 +1,9 @@
+.registration {
+}
+
+.registration__link {
+    padding: 1.7em 0.9em;
+    text-decoration: none;
+    color: var(--color-black);
+    font-size: 1em;
+}

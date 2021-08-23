@@ -1,0 +1,16 @@
+.main {margin-top: auto;}
+
+.main__title {
+    font-size: 4.5em;
+    max-width: 15ch;
+    margin: 0;
+    padding: 0;
+}
+
+.main__paragraph {
+    font-size: 1.5em;
+    max-width: 38ch;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
