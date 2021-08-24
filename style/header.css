@@ -11,3 +11,6 @@
     color: var(--color-black);
 }
 .header__img {}
+.header__logo {
+    width: 65%;
+}
