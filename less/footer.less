@@ -1,0 +1,31 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &__list {
+        list-style: none;
+        display: flex;
+        margin-left: auto;
+        text-transform: uppercase;
+    }
+
+    &__item {
+        margin-right: 2.6vw;
+        font-size: 8px;
+        letter-spacing: 7px;
+
+        &::after {
+            content: "/";
+        }
+    }
+
+    &__container {
+        display: flex;
+        align-items: center;
+    }
+
+    &__logo {
+        width: 17%;
+    }
+}
